@@ -1,0 +1,73 @@
+model,parameterization,variable,shock,share
+Uribe-A,mode 5,gy,eps_xi,9.9123749483843
+Uribe-A,mode 5,gy,eps_theta,0.00837194667427685
+Uribe-A,mode 5,gy,eps_z,0.00470137038225854
+Uribe-A,mode 5,gy,eps_g,67.0754319411197
+Uribe-A,mode 5,gy,eps_zm,5.44600904185983
+Uribe-A,mode 5,gy,eps_gm,17.5531107515797
+Uribe-A,mode 5,gpai,eps_xi,18.8936249497009
+Uribe-A,mode 5,gpai,eps_theta,0.0170942357804538
+Uribe-A,mode 5,gpai,eps_z,0.0098547613929165
+Uribe-A,mode 5,gpai,eps_g,0.183161885890033
+Uribe-A,mode 5,gpai,eps_zm,1.22137670669084
+Uribe-A,mode 5,gpai,eps_gm,79.6748874605448
+Uribe-A,mode 5,girate,eps_xi,34.990942274417
+Uribe-A,mode 5,girate,eps_theta,0.0195136115697077
+Uribe-A,mode 5,girate,eps_z,0.0112882077384914
+Uribe-A,mode 5,girate,eps_g,0.748957092156702
+Uribe-A,mode 5,girate,eps_zm,54.9931377821409
+Uribe-A,mode 5,girate,eps_gm,9.23616103197725
+Uribe-A,mode 6,gy,eps_xi,9.80714677258471
+Uribe-A,mode 6,gy,eps_theta,0.00877677021206839
+Uribe-A,mode 6,gy,eps_z,0.00492090115300305
+Uribe-A,mode 6,gy,eps_g,67.3570150483901
+Uribe-A,mode 6,gy,eps_zm,5.13034623577166
+Uribe-A,mode 6,gy,eps_gm,17.6917942718884
+Uribe-A,mode 6,gpai,eps_xi,18.9452217630298
+Uribe-A,mode 6,gpai,eps_theta,0.0179712348329384
+Uribe-A,mode 6,gpai,eps_z,0.0103098297311172
+Uribe-A,mode 6,gpai,eps_g,0.202063695136325
+Uribe-A,mode 6,gpai,eps_zm,1.06221311250509
+Uribe-A,mode 6,gpai,eps_gm,79.7622203647647
+Uribe-A,mode 6,girate,eps_xi,34.6234324253729
+Uribe-A,mode 6,girate,eps_theta,0.0201081122835108
+Uribe-A,mode 6,girate,eps_z,0.0115715113258874
+Uribe-A,mode 6,girate,eps_g,0.83198132498851
+Uribe-A,mode 6,girate,eps_zm,55.9774123346894
+Uribe-A,mode 6,girate,eps_gm,8.53549429133978
+Uribe-A,MH posterior mean,gy,eps_xi,8.96169083485318
+Uribe-A,MH posterior mean,gy,eps_theta,0.0440549613117457
+Uribe-A,MH posterior mean,gy,eps_z,0.0438983399842617
+Uribe-A,MH posterior mean,gy,eps_g,70.399318672668
+Uribe-A,MH posterior mean,gy,eps_zm,6.81278638094635
+Uribe-A,MH posterior mean,gy,eps_gm,13.7382508102364
+Uribe-A,MH posterior mean,gpai,eps_xi,14.761889788228
+Uribe-A,MH posterior mean,gpai,eps_theta,1.0980862709152
+Uribe-A,MH posterior mean,gpai,eps_z,1.0946265135723
+Uribe-A,MH posterior mean,gpai,eps_g,0.0197452794202055
+Uribe-A,MH posterior mean,gpai,eps_zm,2.22073001194133
+Uribe-A,MH posterior mean,gpai,eps_gm,80.8049221359229
+Uribe-A,MH posterior mean,girate,eps_xi,31.3841646529431
+Uribe-A,MH posterior mean,girate,eps_theta,1.37825930549051
+Uribe-A,MH posterior mean,girate,eps_z,1.3735748432459
+Uribe-A,MH posterior mean,girate,eps_g,0.00357083921520916
+Uribe-A,MH posterior mean,girate,eps_zm,42.5878587538797
+Uribe-A,MH posterior mean,girate,eps_gm,23.2725716052256
+Uribe-B,mode 5,gy,eps_xi,9.90210332042311
+Uribe-B,mode 5,gy,eps_theta,0.00869693882549486
+Uribe-B,mode 5,gy,eps_z,0.00488468862395022
+Uribe-B,mode 5,gy,eps_g,68.2065951337026
+Uribe-B,mode 5,gy,eps_zm,4.90342443598691
+Uribe-B,mode 5,gy,eps_zm2,16.9742954824379
+Uribe-B,mode 5,gpai,eps_xi,20.7649793247522
+Uribe-B,mode 5,gpai,eps_theta,0.0191559455298726
+Uribe-B,mode 5,gpai,eps_z,0.0110626113453822
+Uribe-B,mode 5,gpai,eps_g,0.220836404352897
+Uribe-B,mode 5,gpai,eps_zm,1.00155382342303
+Uribe-B,mode 5,gpai,eps_zm2,77.9824118905966
+Uribe-B,mode 5,girate,eps_xi,34.5136581731024
+Uribe-B,mode 5,girate,eps_theta,0.0197063805781425
+Uribe-B,mode 5,girate,eps_z,0.0114224775048826
+Uribe-B,mode 5,girate,eps_g,0.829957936431323
+Uribe-B,mode 5,girate,eps_zm,57.7860139982608
+Uribe-B,mode 5,girate,eps_zm2,6.83924103412249

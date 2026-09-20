@@ -1,0 +1,26 @@
+# Dynare-generated files
+code/dynare/*_static.m
+code/dynare/*_dynamic.m
+code/dynare/*_set_auxiliary_variables.m
+code/dynare/*_steadystate2.m
+code/dynare/*.log
+code/dynare/*.jnl
+code/dynare/*.m~
+code/dynare/*_results.mat
+code/dynare/uribe_24_irf_parameters.inc
+
+# Large estimation chains and temporary files.
+# Keep source files such as uribe_A_24_mh.mod tracked; ignore only generated
+# chains/results and temporary Dynare output.
+code/dynare/*metropolis*
+code/dynare/*_mh_results.mat
+code/dynare/*_mh_chain.mat
+code/dynare/*.tmp
+results/**/metropolis/
+results/**/chain/
+results/**/*metropolis*
+results/**/*_mh_chain.mat
+
+# MATLAB temporary files
+*.asv
+*.autosave

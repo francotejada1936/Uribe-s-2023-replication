@@ -1,4 +1,4 @@
-# TP3 — Uribe's Neo-Fisherian New Keynesian Model
+## Uribe's Neo-Fisherian New Keynesian Model (MacroMetrics assignmet at Universidad de San Andrés)
 
 The project estimates Uribe's model and computes impulse
 responses, variance decompositions, and a smoothed inflation series following

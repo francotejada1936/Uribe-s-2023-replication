@@ -1,9 +1,11 @@
 # TP3 — Uribe's Neo-Fisherian New Keynesian Model
 
-This repository contains a reproducible implementation of Point 1 of the
-Macrometrics TP3. The project estimates Uribe's model and computes impulse
+The project estimates Uribe's model and computes impulse
 responses, variance decompositions, and a smoothed inflation series following
 the order of the assignment.
+
+Reference and replication materials: https://www.columbia.edu/~mu2166/neoFisher/index.htm
+
 
 ## Assignment workflow
 
@@ -126,10 +128,6 @@ Growth and inflation observables are expressed in quarterly percentage-point
 units where appropriate. The transformations and divisions by 100 are
 documented in the Dynare files and in `data/README.md`.
 
-## Status
 
-The final reproducible version is based on Uribe's 24-equation system. The
-earlier 23-equation prototypes are not part of the final workflow.
 
-For instructions on publishing this project as a public GitHub repository,
-see [`docs/GITHUB_PUBLISHING.md`](docs/GITHUB_PUBLISHING.md).
+
